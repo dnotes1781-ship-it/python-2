@@ -1,0 +1,11 @@
+_id,roll,name,age,branch,semester,city,marks,attendance
+6a3a138ad36c5790febde850,101,Amit Sharma,20,Computer Science,4,Delhi,82,90
+6a3a138ad36c5790febde851,102,Priya Patel,19,Mechanical,2,Ahmedabad,76,85
+6a3a138ad36c5790febde852,103,Ravi Kumar,21,Electrical,6,Lucknow,88,92
+6a3a138ad36c5790febde853,104,Sneha Reddy,20,Civil,4,Hyderabad,73,80
+6a3a138ad36c5790febde854,105,Arjun Mehta,22,Computer Science,8,Mumbai,91,95
+6a3a138ad36c5790febde855,106,Kavya Nair,19,Information Technology,2,Chennai,79,87
+6a3a138ad36c5790febde856,107,Manish Gupta,21,Mechanical,6,Jaipur,84,89
+6a3a138ad36c5790febde857,108,Neha Singh,20,Electrical,4,Bhopal,77,83
+6a3a138ad36c5790febde858,109,Rahul Verma,22,Civil,8,Pune,86,91
+6a3a138ad36c5790febde859,110,Ananya Das,19,Information Technology,2,Kolkata,81,88
